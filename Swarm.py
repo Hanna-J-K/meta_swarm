@@ -3,7 +3,7 @@ from Particle import Particle
 import matplotlib.pyplot as plt
 
 POPULATION = 90
-ITERATIONS = 500
+ITERATIONS = 100
 
 
 def generate_swarm(bounds_x, bounds_y):

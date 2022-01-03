@@ -8,7 +8,6 @@ SOCIAL_CONSTANT = 2
 
 def FUNCTION(x, y):
     return -(y + 47) * math.sin(math.sqrt(abs(x / 2 + (y + 47)))) - x * math.sin(math.sqrt(abs(x - (y + 47))))
-# placeholder jak cos
 
 
 global_best_x = 0
